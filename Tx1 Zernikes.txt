@@ -1,0 +1,12 @@
+SAVED ZERNIKES FILE
+
+  Piston:	0
+  Offset x:	1220
+  Offset y:	930
+  Tilt x:	14.8
+  Tilt y:	15.9
+  Focus:	0.1
+  Astigmatism x:	0
+  Astigmatism y:	0
+  Scale :	0.5
+  Rotation :	0.65
